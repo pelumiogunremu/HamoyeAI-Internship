@@ -1,2 +1,4 @@
-# HamoyeAI-Internship
-This repository contains all the materials used durning my internship at HamoyeAI
+# HamoyeAI-Internshi
+This repository contains all the materials used durning my internship program at HamoyeAI
+
+## Introduction to Python for Machine Learning
